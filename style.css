@@ -1,7 +1,8 @@
 html, body {
-    margin: 0;
-    padding: 0;
+    margin: 1em auto;
+    padding: 1em;
     background-color: #333333;
+    color: #FFF;
   }
   canvas {
     display: block;
