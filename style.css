@@ -7,4 +7,16 @@ html, body {
   canvas {
     display: block;
   }
+
+  p {
+    color: lightcyan;
+  }
   
+  main {
+    background-color: black;
+  }
+
+  .myBold {
+    font-weight: bold;
+    color: yellow;
+  }
