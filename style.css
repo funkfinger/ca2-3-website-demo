@@ -1,20 +1,21 @@
-html, body {
-    background-color: #333333;
-    color: #FFF;
-  }
-  canvas {
-    display: block;
-  }
+html,
+body {
+  background-color: #333333;
+  color: #fff;
+}
+canvas {
+  display: block;
+}
 
-  p {
-    color: lightcyan;
-  }
-  
-  main {
-    background-color: black;
-  }
+p {
+  color: lightcyan;
+}
 
-  .myBold {
-    font-weight: bold;
-    color: yellow;
-  }
+main {
+  background-color: black;
+}
+
+.myBold {
+  font-weight: bold;
+  color: yellow;
+}
