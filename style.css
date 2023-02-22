@@ -18,3 +18,9 @@ html, body {
     font-weight: bold;
     color: yellow;
   }
+
+  .pic {
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+  }
